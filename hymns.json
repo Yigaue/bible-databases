@@ -1,0 +1,1832 @@
+[
+  {
+    "id": 1,
+    "title": "Amazing Grace",
+    "author": "John Newton",
+    "year": 1779,
+    "category": "Grace",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Amazing grace! How sweet the sound",
+        "That saved a wretch like me!",
+        "I once was lost, but now am found;",
+        "Was blind, but now I see."
+      ],
+      "verse2": [
+        "’Twas grace that taught my heart to fear,",
+        "And grace my fears relieved;",
+        "How precious did that grace appear",
+        "The hour I first believed!"
+      ],
+      "verse3": [
+        "Through many dangers, toils and snares,",
+        "I have already come;",
+        "’Tis grace hath brought me safe thus far,",
+        "And grace will lead me home."
+      ],
+      "verse4": [
+        "The Lord has promised good to me,",
+        "His Word my hope secures;",
+        "He will my Shield and Portion be,",
+        "As long as life endures."
+      ],
+      "verse5": [
+        "Yea, when this flesh and heart shall fail,",
+        "And mortal life shall cease,",
+        "I shall possess, within the veil,",
+        "A life of joy and peace."
+      ],
+      "verse6": [
+        "When we’ve been there ten thousand years,",
+        "Bright shining as the sun,",
+        "We’ve no less days to sing God’s praise",
+        "Than when we’d first begun."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "title": "Holy, Holy, Holy! Lord God Almighty",
+    "author": "Reginald Heber",
+    "year": 1826,
+    "category": "Adoration",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Holy, holy, holy! Lord God Almighty!",
+        "Early in the morning our song shall rise to Thee;",
+        "Holy, holy, holy, merciful and mighty!",
+        "God in three Persons, blessed Trinity!"
+      ],
+      "verse2": [
+        "Holy, holy, holy! All the saints adore Thee,",
+        "Casting down their golden crowns around the glassy sea;",
+        "Cherubim and seraphim falling down before Thee,",
+        "Who was, and is, and evermore shalt be."
+      ],
+      "verse3": [
+        "Holy, holy, holy! Though the darkness hide Thee,",
+        "Though the eye of sinful man Thy glory may not see;",
+        "Only Thou art holy; there is none beside Thee,",
+        "Perfect in power, in love, and purity."
+      ],
+      "verse4": [
+        "Holy, holy, holy! Lord God Almighty!",
+        "All Thy works shall praise Thy Name, in earth, and sky, and sea;",
+        "Holy, holy, holy; merciful and mighty!",
+        "God in three Persons, blessed Trinity!"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "title": "It Is Well with My Soul",
+    "author": "Horatio Spafford",
+    "year": 1873,
+    "category": "Peace",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "When peace, like a river, attendeth my way,",
+        "When sorrows like sea billows roll;",
+        "Whatever my lot, Thou hast taught me to say,",
+        "It is well, it is well with my soul."
+      ],
+      "refrain": [
+        "It is well with my soul,",
+        "It is well, it is well with my soul."
+      ],
+      "verse2": [
+        "Though Satan should buffet, though trials should come,",
+        "Let this blest assurance control,",
+        "That Christ hath regarded my helpless estate,",
+        "And hath shed His own blood for my soul."
+      ],
+      "verse3": [
+        "My sin, oh, the bliss of this glorious thought!",
+        "My sin, not in part but the whole,",
+        "Is nailed to the cross, and I bear it no more,",
+        "Praise the Lord, praise the Lord, O my soul!"
+      ],
+      "verse4": [
+        "And Lord, haste the day when my faith shall be sight,",
+        "The clouds be rolled back as a scroll;",
+        "The trump shall resound, and the Lord shall descend,",
+        "Even so, it is well with my soul."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "title": "A Mighty Fortress Is Our God",
+    "author": "Martin Luther",
+    "year": 1529,
+    "category": "Protection",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "A mighty fortress is our God,",
+        "A bulwark never failing;",
+        "Our helper He, amid the flood",
+        "Of mortal ills prevailing."
+      ],
+      "verse2": [
+        "Did we in our own strength confide,",
+        "Our striving would be losing;",
+        "Were not the right Man on our side,",
+        "The Man of God's own choosing."
+      ],
+      "verse3": [
+        "And though this world, with devils filled,",
+        "Should threaten to undo us,",
+        "We will not fear, for God hath willed",
+        "His truth to triumph through us."
+      ],
+      "verse4": [
+        "That word above all earthly powers,",
+        "No thanks to them, abideth;",
+        "The Spirit and the gifts are ours",
+        "Through Him who with us sideth."
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "title": "Blessed Assurance",
+    "author": "Fanny Crosby",
+    "year": 1873,
+    "category": "Assurance",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Blessed assurance, Jesus is mine!",
+        "Oh, what a foretaste of glory divine!",
+        "Heir of salvation, purchase of God,",
+        "Born of His Spirit, washed in His blood."
+      ],
+      "refrain": [
+        "This is my story, this is my song,",
+        "Praising my Savior all the day long;",
+        "This is my story, this is my song,",
+        "Praising my Savior all the day long."
+      ],
+      "verse2": [
+        "Perfect submission, perfect delight,",
+        "Visions of rapture now burst on my sight;",
+        "Angels, descending, bring from above",
+        "Echoes of mercy, whispers of love."
+      ],
+      "verse3": [
+        "Perfect submission, all is at rest,",
+        "I in my Savior am happy and blest,",
+        "Watching and waiting, looking above,",
+        "Filled with His goodness, lost in His love."
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "title": "Come, Thou Fount of Every Blessing",
+    "author": "Robert Robinson",
+    "year": 1758,
+    "category": "Gratitude",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Come, Thou Fount of every blessing,",
+        "Tune my heart to sing Thy grace;",
+        "Streams of mercy, never ceasing,",
+        "Call for songs of loudest praise."
+      ],
+      "verse2": [
+        "Here I raise my Ebenezer;",
+        "Hither by Thy help I'm come;",
+        "And I hope, by Thy good pleasure,",
+        "Safely to arrive at home."
+      ],
+      "verse3": [
+        "O to grace how great a debtor",
+        "Daily I'm constrained to be!",
+        "Let Thy goodness, like a fetter,",
+        "Bind my wandering heart to Thee."
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "title": "Abide with Me",
+    "author": "Henry Francis Lyte",
+    "year": 1847,
+    "category": "Comfort",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Abide with me; fast falls the eventide;",
+        "The darkness deepens; Lord, with me abide!",
+        "When other helpers fail and comforts flee,",
+        "Help of the helpless, oh, abide with me."
+      ],
+      "verse2": [
+        "Swift to its close ebbs out life's little day;",
+        "Earth's joys grow dim, its glories pass away;",
+        "Change and decay in all around I see;",
+        "O Thou who changest not, abide with me."
+      ],
+      "verse3": [
+        "I need Thy presence every passing hour;",
+        "What but Thy grace can foil the tempter's pow'r?",
+        "Who like Thyself my guide and stay can be?",
+        "Through cloud and sunshine, Lord, abide with me."
+      ],
+      "verse4": [
+        "I fear no foe, with Thee at hand to bless;",
+        "Ills have no weight, and tears no bitterness.",
+        "Where is death's sting? Where, grave, thy victory?",
+        "I triumph still, if Thou abide with me."
+      ],
+      "verse5": [
+        "Hold Thou Thy cross before my closing eyes;",
+        "Shine through the gloom and point me to the skies.",
+        "Heaven's morning breaks, and earth's vain shadows flee;",
+        "In life, in death, O Lord, abide with me."
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "title": "Be Thou My Vision",
+    "author": "Eleanor Hull (Trans.)",
+    "year": 1912,
+    "category": "Guidance",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Be Thou my Vision, O Lord of my heart;",
+        "Naught be all else to me, save that Thou art;",
+        "Thou my best thought, by day or by night,",
+        "Waking or sleeping, Thy presence my light."
+      ],
+      "verse2": [
+        "Be Thou my Wisdom, and Thou my true Word;",
+        "I ever with Thee and Thou with me, Lord;",
+        "Thou my great Father, I Thy true son;",
+        "Thou in me dwelling, and I with Thee one."
+      ],
+      "verse3": [
+        "Be Thou my battle Shield, Sword for the fight;",
+        "Be Thou my Dignity, Thou my Delight;",
+        "Thou my soul's Shelter, Thou my high Tower:",
+        "Raise Thou me heavenward, O Pow'r of my pow'r."
+      ],
+      "verse4": [
+        "Riches I heed not, nor man's empty praise,",
+        "Thou mine Inheritance, now and always:",
+        "Thou and Thou only, first in my heart,",
+        "High King of Heaven, my Treasure Thou art."
+      ],
+      "verse5": [
+        "High King of Heaven, my victory won,",
+        "May I reach Heaven's joys, O bright Heav'n's Sun!",
+        "Heart of my own heart, whatever befall,",
+        "Still be my Vision, O Ruler of all."
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "title": "Just As I Am",
+    "author": "Charlotte Elliott",
+    "year": 1835,
+    "category": "Repentance",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Just as I am, without one plea,",
+        "But that Thy blood was shed for me,",
+        "And that Thou bidd'st me come to Thee,",
+        "O Lamb of God, I come, I come."
+      ],
+      "verse2": [
+        "Just as I am, and waiting not",
+        "To rid my soul of one dark blot,",
+        "To Thee, whose blood can cleanse each spot,",
+        "O Lamb of God, I come, I come."
+      ],
+      "verse3": [
+        "Just as I am, though tossed about",
+        "With many a conflict, many a doubt,",
+        "Fightings and fears within, without,",
+        "O Lamb of God, I come, I come."
+      ],
+      "verse4": [
+        "Just as I am, poor, wretched, blind;",
+        "Sight, riches, healing of the mind,",
+        "Yea, all I need, in Thee to find,",
+        "O Lamb of God, I come, I come."
+      ],
+      "verse5": [
+        "Just as I am, Thou wilt receive,",
+        "Wilt welcome, pardon, cleanse, relieve;",
+        "Because Thy promise I believe,",
+        "O Lamb of God, I come, I come."
+      ],
+      "verse6": [
+        "Just as I am, Thy love unknown",
+        "Has broken every barrier down;",
+        "Now to be Thine, yea, Thine alone,",
+        "O Lamb of God, I come, I come."
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "title": "Rock of Ages",
+    "author": "Augustus Toplady",
+    "year": 1776,
+    "category": "Salvation",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Rock of Ages, cleft for me,",
+        "Let me hide myself in Thee;",
+        "Let the water and the blood,",
+        "From Thy wounded side which flowed,",
+        "Be of sin the double cure;",
+        "Save from wrath and make me pure."
+      ],
+      "verse2": [
+        "Not the labors of my hands",
+        "Can fulfill Thy law's demands;",
+        "Could my zeal no respite know,",
+        "Could my tears forever flow,",
+        "All for sin could not atone;",
+        "Thou must save, and Thou alone."
+      ],
+      "verse3": [
+        "Nothing in my hand I bring,",
+        "Simply to Thy cross I cling;",
+        "Naked, come to Thee for dress;",
+        "Helpless, look to Thee for grace;",
+        "Foul, I to the fountain fly;",
+        "Wash me, Savior, or I die."
+      ],
+      "verse4": [
+        "While I draw this fleeting breath,",
+        "When mine eyes shall close in death,",
+        "When I soar to worlds unknown,",
+        "See Thee on Thy judgment throne,",
+        "Rock of Ages, cleft for me,",
+        "Let me hide myself in Thee."
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "title": "What a Friend We Have in Jesus",
+    "author": "Joseph Scriven",
+    "year": 1855,
+    "category": "Prayer",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "What a friend we have in Jesus,",
+        "All our sins and griefs to bear!",
+        "What a privilege to carry",
+        "Everything to God in prayer!",
+        "Oh, what peace we often forfeit,",
+        "Oh, what needless pain we bear,",
+        "All because we do not carry",
+        "Everything to God in prayer!"
+      ],
+      "verse2": [
+        "Have we trials and temptations?",
+        "Is there trouble anywhere?",
+        "We should never be discouraged—",
+        "Take it to the Lord in prayer.",
+        "Can we find a friend so faithful,",
+        "Who will all our sorrows share?",
+        "Jesus knows our every weakness;",
+        "Take it to the Lord in prayer."
+      ],
+      "verse3": [
+        "Are we weak and heavy-laden,",
+        "Cumbered with a load of care?",
+        "Precious Savior, still our refuge—",
+        "Take it to the Lord in prayer.",
+        "Do thy friends despise, forsake thee?",
+        "Take it to the Lord in prayer!",
+        "In His arms He’ll take and shield thee,",
+        "Thou wilt find a solace there."
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "title": "To God Be the Glory",
+    "author": "Fanny Crosby",
+    "year": 1875,
+    "category": "Praise",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "To God be the glory, great things He hath done;",
+        "So loved He the world that He gave us His Son,",
+        "Who yielded His life an atonement for sin,",
+        "And opened the life gate that all may go in."
+      ],
+      "refrain": [
+        "Praise the Lord, praise the Lord,",
+        "Let the earth hear His voice!",
+        "Praise the Lord, praise the Lord,",
+        "Let the people rejoice!",
+        "O come to the Father, through Jesus the Son,",
+        "And give Him the glory, great things He hath done."
+      ],
+      "verse2": [
+        "O perfect redemption, the purchase of blood,",
+        "To every believer the promise of God;",
+        "The vilest offender who truly believes,",
+        "That moment from Jesus a pardon receives."
+      ],
+      "verse3": [
+        "Great things He hath taught us, great things He hath done,",
+        "And great our rejoicing through Jesus the Son;",
+        "But purer, and higher, and greater will be",
+        "Our wonder, our transport, when Jesus we see."
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "title": "Take My Life and Let It Be",
+    "author": "Frances Ridley Havergal",
+    "year": 1874,
+    "category": "Consecration",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Take my life and let it be",
+        "Consecrated, Lord, to Thee;",
+        "Take my moments and my days,",
+        "Let them flow in ceaseless praise."
+      ],
+      "verse2": [
+        "Take my hands and let them move",
+        "At the impulse of Thy love;",
+        "Take my feet and let them be",
+        "Swift and beautiful for Thee."
+      ],
+      "verse3": [
+        "Take my voice and let me sing,",
+        "Always, only for my King;",
+        "Take my lips and let them be",
+        "Filled with messages from Thee."
+      ],
+      "verse4": [
+        "Take my silver and my gold,",
+        "Not a mite would I withhold;",
+        "Take my intellect and use",
+        "Every pow’r as Thou shalt choose."
+      ],
+      "verse5": [
+        "Take my will and make it Thine,",
+        "It shall be no longer mine;",
+        "Take my heart, it is Thine own,",
+        "It shall be Thy royal throne."
+      ],
+      "verse6": [
+        "Take my love, my Lord, I pour",
+        "At Thy feet its treasure store;",
+        "Take myself and I will be",
+        "Ever, only, all for Thee."
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "title": "The Old Rugged Cross",
+    "author": "George Bennard",
+    "year": 1913,
+    "category": "The Cross",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "On a hill far away stood an old rugged cross,",
+        "The emblem of suffering and shame;",
+        "And I love that old cross where the dearest and best",
+        "For a world of lost sinners was slain."
+      ],
+      "refrain": [
+        "So I’ll cherish the old rugged cross,",
+        "Till my trophies at last I lay down;",
+        "I will cling to the old rugged cross,",
+        "And exchange it some day for a crown."
+      ],
+      "verse2": [
+        "Oh, that old rugged cross, so despised by the world,",
+        "Has a wondrous attraction for me;",
+        "For the dear Lamb of God left His glory above",
+        "To bear it to dark Calvary."
+      ],
+      "verse3": [
+        "In that old rugged cross, stained with blood so divine,",
+        "A wondrous beauty I see,",
+        "For ’twas on that old cross Jesus suffered and died,",
+        "To pardon and sanctify me."
+      ],
+      "verse4": [
+        "To the old rugged cross I will ever be true,",
+        "Its shame and reproach gladly bear;",
+        "Then He’ll call me some day to my home far away,",
+        "Where His glory forever I’ll share."
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "title": "All Creatures of Our God and King",
+    "author": "St. Francis of Assisi / William H. Draper",
+    "year": 1919,
+    "category": "Creation",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "All creatures of our God and King,",
+        "Lift up your voice and with us sing,",
+        "Alleluia! Alleluia!",
+        "Thou burning sun with golden beam,",
+        "Thou silver moon with softer gleam!",
+        "O praise Him! O praise Him!",
+        "Alleluia! Alleluia! Alleluia!"
+      ],
+      "verse2": [
+        "Thou rushing wind that art so strong,",
+        "Ye clouds that sail in Heav’n along,",
+        "O praise Him! Alleluia!",
+        "Thou rising moon, in praise rejoice,",
+        "Ye lights of evening, find a voice!",
+        "O praise Him! O praise Him!",
+        "Alleluia! Alleluia! Alleluia!"
+      ],
+      "verse3": [
+        "And all ye men of tender heart,",
+        "Forgiving others, take your part,",
+        "O sing ye! Alleluia!",
+        "Ye who long pain and sorrow bear,",
+        "Praise God and on Him cast your care!",
+        "O praise Him! O praise Him!",
+        "Alleluia! Alleluia! Alleluia!"
+      ],
+      "verse4": [
+        "Let all things their Creator bless,",
+        "And worship Him in humbleness,",
+        "O praise Him! Alleluia!",
+        "Praise, praise the Father, praise the Son,",
+        "And praise the Spirit, Three in One!",
+        "O praise Him! O praise Him!",
+        "Alleluia! Alleluia! Alleluia!"
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "title": "Crown Him with Many Crowns",
+    "author": "Matthew Bridges",
+    "year": 1851,
+    "category": "Adoration",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Crown Him with many crowns,",
+        "The Lamb upon His throne;",
+        "Hark! how the heavenly anthem drowns",
+        "All music but its own:",
+        "Awake, my soul, and sing",
+        "Of Him who died for thee,",
+        "And hail Him as thy matchless King",
+        "Through all eternity."
+      ],
+      "verse2": [
+        "Crown Him the Lord of love;",
+        "Behold His hands and side,",
+        "Rich wounds, yet visible above,",
+        "In beauty glorified:",
+        "No angel in the sky",
+        "Can fully bear that sight,",
+        "But downward bends his burning eye",
+        "At mysteries so bright."
+      ],
+      "verse3": [
+        "Crown Him the Lord of peace,",
+        "Who power a scepter wields,",
+        "From pole to pole, that wars may cease,",
+        "And all be prayer and praise:",
+        "His reign shall know no end,",
+        "And round His pierced feet",
+        "Fair flowers of paradise extend",
+        "Their fragrance ever sweet."
+      ],
+      "verse4": [
+        "Crown Him the Lord of years,",
+        "The Potentate of time,",
+        "Creator of the rolling spheres,",
+        "Ineffably sublime:",
+        "All hail, Redeemer, hail!",
+        "For Thou hast died for me;",
+        "Thy praise shall never, never fail",
+        "Throughout eternity."
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "title": "Fairest Lord Jesus",
+    "author": "German Jesuits / Joseph A. Seiss",
+    "year": 1873,
+    "category": "Christology",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Fairest Lord Jesus, Ruler of all nature,",
+        "O Thou of God and man the Son,",
+        "Thee will I cherish, Thee will I honor,",
+        "Thou, my soul’s glory, joy, and crown."
+      ],
+      "verse2": [
+        "Fair are the meadows, fairer still the woodlands,",
+        "Robed in the blooming garb of spring;",
+        "Jesus is fairer, Jesus is purer,",
+        "Who makes the woeful heart to sing."
+      ],
+      "verse3": [
+        "Fair is the sunshine, fairer still the moonlight,",
+        "And all the twinkling starry host;",
+        "Jesus shines brighter, Jesus shines purer",
+        "Than all the angels heav’n can boast."
+      ],
+      "verse4": [
+        "Beautiful Savior! Lord of all the nations!",
+        "Son of God and Son of Man!",
+        "Glory and honor, praise, adoration,",
+        "Now and forevermore be Thine."
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "title": "Joyful, Joyful, We Adore Thee",
+    "author": "Henry van Dyke",
+    "year": 1907,
+    "category": "Adoration",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Joyful, joyful, we adore Thee,",
+        "God of glory, Lord of love;",
+        "Hearts unfold like flowers before Thee,",
+        "Opening to the sun above.",
+        "Melt the clouds of sin and sadness;",
+        "Drive the dark of doubt away;",
+        "Giver of immortal gladness,",
+        "Fill us with the light of day!"
+      ],
+      "verse2": [
+        "All Thy works with joy surround Thee,",
+        "Earth and heaven reflect Thy rays,",
+        "Stars and angels sing around Thee,",
+        "Center of unbroken praise.",
+        "Field and forest, vale and mountain,",
+        "Flowery meadow, flashing sea,",
+        "Chanting bird and flowing fountain",
+        "Call us to rejoice in Thee."
+      ],
+      "verse3": [
+        "Thou art giving and forgiving,",
+        "Ever blessing, ever blest,",
+        "Wellspring of the joy of living,",
+        "Ocean depth of happy rest!",
+        "Thou our Father, Christ our Brother,",
+        "All who live in love are Thine;",
+        "Teach us how to love each other,",
+        "Lift us to the joy divine."
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "title": "The Church's One Foundation",
+    "author": "Samuel Stone",
+    "year": 1866,
+    "category": "The Church",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "The Church's one foundation",
+        "Is Jesus Christ her Lord;",
+        "She is His new creation",
+        "By water and the Word:",
+        "From heav'n He came and sought her",
+        "To be His holy bride;",
+        "With His own blood He bought her,",
+        "And for her life He died."
+      ],
+      "verse2": [
+        "Elect from every nation,",
+        "Yet one o'er all the earth,",
+        "Her charter of salvation",
+        "One Lord, one faith, one birth;",
+        "One holy name she blesses,",
+        "Partakes one holy food,",
+        "And to one hope she presses,",
+        "With every grace endued."
+      ],
+      "verse3": [
+        "'Mid toil and tribulation,",
+        "And tumult of her war,",
+        "She waits the consummation",
+        "Of peace forevermore;",
+        "Till with the vision glorious",
+        "Her longing eyes are blest,",
+        "And the great Church victorious",
+        "Shall be the Church at rest."
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "title": "Nearer, My God, to Thee",
+    "author": "Sarah F. Adams",
+    "year": 1841,
+    "category": "Aspiration",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Nearer, my God, to Thee, nearer to Thee!",
+        "E’en though it be a cross that raiseth me,",
+        "Still all my song shall be, nearer, my God, to Thee,",
+        "Nearer, my God, to Thee, nearer to Thee!"
+      ],
+      "verse2": [
+        "Though like the wanderer, the sun gone down,",
+        "Darkness be over me, my rest a stone;",
+        "Yet in my dreams I’d be nearer, my God, to Thee,",
+        "Nearer, my God, to Thee, nearer to Thee!"
+      ],
+      "verse3": [
+        "There let the way appear, steps unto heav’n;",
+        "All that Thou sendest me, in mercy giv’n;",
+        "Angels to beckon me nearer, my God, to Thee,",
+        "Nearer, my God, to Thee, nearer to Thee!"
+      ],
+      "verse4": [
+        "Then, with my waking thoughts bright with Thy praise,",
+        "Out of my stony griefs Bethel I’ll raise;",
+        "So by my woes to be nearer, my God, to Thee,",
+        "Nearer, my God, to Thee, nearer to Thee!"
+      ],
+      "verse5": [
+        "Or if on joyful wing cleaving the sky,",
+        "Sun, moon, and stars forgot, upwards I fly,",
+        "Still all my song shall be, nearer, my God, to Thee,",
+        "Nearer, my God, to Thee, nearer to Thee!"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "title": "Great Is Thy Faithfulness",
+    "author": "Thomas Chisholm",
+    "year": 1923,
+    "category": "Faithfulness",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Great is Thy faithfulness, O God my Father,",
+        "There is no shadow of turning with Thee;",
+        "Thou changest not, Thy compassions, they fail not",
+        "As Thou hast been Thou forever wilt be."
+      ],
+      "refrain": [
+        "Great is Thy faithfulness! Great is Thy faithfulness!",
+        "Morning by morning new mercies I see;",
+        "All I have needed Thy hand hath provided—",
+        "Great is Thy faithfulness, Lord, unto me!"
+      ],
+      "verse2": [
+        "Summer and winter, and springtime and harvest,",
+        "Sun, moon and stars in their courses above,",
+        "Join with all nature in manifold witness",
+        "To Thy great faithfulness, mercy and love."
+      ],
+      "verse3": [
+        "Pardon for sin and a peace that endureth,",
+        "Thine own dear presence to cheer and to guide;",
+        "Strength for today and bright hope for tomorrow,",
+        "Blessings all mine, with ten thousand beside!"
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "title": "Praise to the Lord, the Almighty",
+    "author": "Joachim Neander / Catherine Winkworth",
+    "year": 1863,
+    "category": "Praise",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Praise to the Lord, the Almighty, the King of creation!",
+        "O my soul, praise Him, for He is thy health and salvation!",
+        "All ye who hear, now to His temple draw near;",
+        "Praise Him in glad adoration."
+      ],
+      "verse2": [
+        "Praise to the Lord, who o’er all things so wondrously reigneth,",
+        "Shelters thee under His wings, yea, so gently sustaineth!",
+        "Hast thou not seen how thy desires e'er have been",
+        "Granted in what He ordaineth?"
+      ],
+      "verse3": [
+        "Praise to the Lord, who doth prosper thy work and defend thee;",
+        "Surely His goodness and mercy here daily attend thee.",
+        "Ponder anew what the Almighty can do,",
+        "If with His love He befriend thee."
+      ],
+      "verse4": [
+        "Praise to the Lord, O let all that is in me adore Him!",
+        "All that hath life and breath, come now with praises before Him.",
+        "Let the Amen sound from His people again,",
+        "Gladly for aye we adore Him."
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "title": "Joy to the World",
+    "author": "Isaac Watts",
+    "year": 1719,
+    "category": "Christmas",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Joy to the world, the Lord is come!",
+        "Let earth receive her King;",
+        "Let every heart prepare Him room,",
+        "And Heaven and nature sing,",
+        "And Heaven and nature sing,",
+        "And Heaven, and Heaven, and nature sing."
+      ],
+      "verse2": [
+        "Joy to the earth, the Savior reigns!",
+        "Let men their songs employ;",
+        "While fields and floods, rocks, hills and plains",
+        "Repeat the sounding joy,",
+        "Repeat the sounding joy,",
+        "Repeat, repeat the sounding joy."
+      ],
+      "verse3": [
+        "No more let sins and sorrows grow,",
+        "Nor thorns infest the ground;",
+        "He comes to make His blessings flow",
+        "Far as the curse is found,",
+        "Far as the curse is found,",
+        "Far as, far as the curse is found."
+      ],
+      "verse4": [
+        "He rules the world with truth and grace,",
+        "And makes the nations prove",
+        "The glories of His righteousness,",
+        "And wonders of His love,",
+        "And wonders of His love,",
+        "And wonders, wonders of His love."
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "title": "Hark! The Herald Angels Sing",
+    "author": "Charles Wesley",
+    "year": 1739,
+    "category": "Christmas",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Hark! the herald angels sing,",
+        "“Glory to the newborn King;",
+        "Peace on earth, and mercy mild,",
+        "God and sinners reconciled!”",
+        "Joyful, all ye nations rise,",
+        "Join the triumph of the skies;",
+        "With th’angelic host proclaim,",
+        "“Christ is born in Bethlehem!”"
+      ],
+      "refrain": [
+        "Hark! the herald angels sing,",
+        "“Glory to the newborn King!”"
+      ],
+      "verse2": [
+        "Christ, by highest Heav’n adored;",
+        "Christ the everlasting Lord;",
+        "Late in time, behold Him come,",
+        "Offspring of a virgin’s womb.",
+        "Veiled in flesh the Godhead see;",
+        "Hail th’incarnate Deity,",
+        "Pleased as man with man to dwell,",
+        "Jesus our Emmanuel."
+      ],
+      "verse3": [
+        "Hail the heav’n-born Prince of Peace!",
+        "Hail the Sun of Righteousness!",
+        "Light and life to all He brings,",
+        "Ris’n with healing in His wings.",
+        "Mild He lays His glory by,",
+        "Born that man no more may die;",
+        "Born to raise the sons of earth,",
+        "Born to give them second birth."
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "title": "O for a Thousand Tongues to Sing",
+    "author": "Charles Wesley",
+    "year": 1739,
+    "category": "Praise",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "O for a thousand tongues to sing",
+        "My great Redeemer’s praise,",
+        "The glories of my God and King,",
+        "The triumphs of His grace!"
+      ],
+      "verse2": [
+        "My gracious Master and my God,",
+        "Assist me to proclaim,",
+        "To spread through all the earth abroad",
+        "The honors of Thy name."
+      ],
+      "verse3": [
+        "Jesus! the name that charms our fears,",
+        "That bids our sorrows cease;",
+        "’Tis music in the sinner’s ears,",
+        "’Tis life, and health, and peace."
+      ],
+      "verse4": [
+        "He breaks the power of canceled sin,",
+        "He sets the prisoner free;",
+        "His blood can make the foulest clean;",
+        "His blood availed for me."
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "title": "O Sacred Head, Now Wounded",
+    "author": "Bernard of Clairvaux / J.W. Alexander",
+    "year": 1830,
+    "category": "Lent",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "O sacred Head, now wounded,",
+        "With grief and shame weighed down,",
+        "Now scornfully surrounded",
+        "With thorns, Thine only crown;",
+        "O sacred Head, what glory,",
+        "What bliss till now was Thine!",
+        "Yet, though despised and gory,",
+        "I joy to call Thee mine."
+      ],
+      "verse2": [
+        "What Thou, my Lord, hast suffered,",
+        "Was all for sinners’ gain;",
+        "Mine, mine was the transgression,",
+        "But Thine the deadly pain.",
+        "Lo, here I fall, my Savior!",
+        "’Tis I deserve Thy place;",
+        "Look on me with Thy favor,",
+        "Vouchsafe to me Thy grace."
+      ],
+      "verse3": [
+        "What language shall I borrow",
+        "To thank Thee, dearest friend,",
+        "For this Thy dying sorrow,",
+        "Thy pity without end?",
+        "O make me Thine forever,",
+        "And should I fainting be,",
+        "Lord, let me never, never",
+        "Outlive my love to Thee."
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "title": "When I Survey the Wondrous Cross",
+    "author": "Isaac Watts",
+    "year": 1707,
+    "category": "The Cross",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "When I survey the wondrous cross",
+        "On which the Prince of glory died,",
+        "My richest gain I count but loss,",
+        "And pour contempt on all my pride."
+      ],
+      "verse2": [
+        "Forbid it, Lord, that I should boast,",
+        "Save in the death of Christ my God!",
+        "All the vain things that charm me most,",
+        "I sacrifice them to His blood."
+      ],
+      "verse3": [
+        "See from His head, His hands, His feet,",
+        "Sorrow and love flow mingled down!",
+        "Did e’er such love and sorrow meet,",
+        "Or thorns compose so rich a crown?"
+      ],
+      "verse4": [
+        "Were the whole realm of nature mine,",
+        "That were a present far too small;",
+        "Love so amazing, so divine,",
+        "Demands my soul, my life, my all."
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "title": "’Tis So Sweet to Trust in Jesus",
+    "author": "Louisa M. R. Stead",
+    "year": 1882,
+    "category": "Trust",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "’Tis so sweet to trust in Jesus,",
+        "Just to take Him at His Word;",
+        "Just to rest upon His promise,",
+        "Just to know, “Thus saith the Lord.”"
+      ],
+      "refrain": [
+        "Jesus, Jesus, how I trust Him!",
+        "How I’ve proved Him o’er and o’er!",
+        "Jesus, Jesus, precious Jesus!",
+        "O for grace to trust Him more!"
+      ],
+      "verse2": [
+        "O how sweet to trust in Jesus,",
+        "Just to trust His cleansing blood;",
+        "Just in simple faith to plunge me",
+        "’Neath the healing, cleansing flood!"
+      ],
+      "verse3": [
+        "Yes, ’tis sweet to trust in Jesus,",
+        "Just from sin and self to cease;",
+        "Just from Jesus simply taking",
+        "Life and rest, and joy and peace."
+      ],
+      "verse4": [
+        "I’m so glad I learned to trust Thee,",
+        "Precious Jesus, Savior, Friend;",
+        "And I know that Thou art with me,",
+        "Wilt be with me to the end."
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "title": "Standing on the Promises",
+    "author": "Russell Kelso Carter",
+    "year": 1886,
+    "category": "Assurance",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Standing on the promises of Christ my King,",
+        "Through eternal ages let His praises ring;",
+        "Glory in the highest, I will shout and sing,",
+        "Standing on the promises of God."
+      ],
+      "refrain": [
+        "Standing, standing,",
+        "Standing on the promises of God my Savior;",
+        "Standing, standing,",
+        "I’m standing on the promises of God."
+      ],
+      "verse2": [
+        "Standing on the promises that cannot fail,",
+        "When the howling storms of doubt and fear assail,",
+        "By the living Word of God I shall prevail,",
+        "Standing on the promises of God."
+      ],
+      "verse3": [
+        "Standing on the promises of Christ the Lord,",
+        "Bound to Him eternally by love’s strong cord,",
+        "Overcoming daily with the Spirit’s sword,",
+        "Standing on the promises of God."
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "title": "Leaning on the Everlasting Arms",
+    "author": "Elisha Hoffman",
+    "year": 1887,
+    "category": "Peace",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "What a fellowship, what a joy divine,",
+        "Leaning on the everlasting arms;",
+        "What a blessedness, what a peace is mine,",
+        "Leaning on the everlasting arms."
+      ],
+      "refrain": [
+        "Leaning, leaning,",
+        "Safe and secure from all alarms;",
+        "Leaning, leaning,",
+        "Leaning on the everlasting arms."
+      ],
+      "verse2": [
+        "O how sweet to walk in this pilgrim way,",
+        "Leaning on the everlasting arms;",
+        "O how bright the path grows from day to day,",
+        "Leaning on the everlasting arms."
+      ],
+      "verse3": [
+        "What have I to dread, what have I to fear,",
+        "Leaning on the everlasting arms?",
+        "I have blessed peace with my Lord so near,",
+        "Leaning on the everlasting arms."
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "title": "O Come, O Come, Emmanuel",
+    "author": "Latin Hymn / John Mason Neale",
+    "year": 1851,
+    "category": "Advent",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "O come, O come, Emmanuel,",
+        "And ransom captive Israel,",
+        "That mourns in lonely exile here,",
+        "Until the Son of God appear."
+      ],
+      "refrain": [
+        "Rejoice! Rejoice! Emmanuel",
+        "Shall come to thee, O Israel."
+      ],
+      "verse2": [
+        "O come, Thou Rod of Jesse, free",
+        "Thine own from Satan’s tyranny;",
+        "From depths of Hell Thy people save,",
+        "And give them victory o’er the grave."
+      ],
+      "verse3": [
+        "O come, Thou Day-Spring, come and cheer",
+        "Our spirits by Thine advent here;",
+        "Disperse the gloomy clouds of night,",
+        "And death’s dark shadows put to flight."
+      ],
+      "verse4": [
+        "O come, Thou Key of David, come,",
+        "And open wide our heavenly home;",
+        "Make safe the way that leads on high,",
+        "And close the path to misery."
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "title": "Tell Me the Old, Old Story",
+    "author": "A. Katherine Hankey",
+    "year": 1866,
+    "category": "Gospel",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Tell me the old, old story",
+        "Of unseen things above,",
+        "Of Jesus and His glory,",
+        "Of Jesus and His love.",
+        "Tell me the story simply,",
+        "As to a little child,",
+        "For I am weak and weary,",
+        "And helpless and defiled."
+      ],
+      "refrain": [
+        "Tell me the old, old story,",
+        "Tell me the old, old story,",
+        "Tell me the old, old story,",
+        "Of Jesus and His love."
+      ],
+      "verse2": [
+        "Tell me the story slowly,",
+        "That I may take it in,",
+        "That wonderful redemption,",
+        "God’s remedy for sin.",
+        "Tell me the story often,",
+        "For I forget so soon;",
+        "The early dew of morning",
+        "Has passed away at noon."
+      ],
+      "verse3": [
+        "Tell me the story softly,",
+        "With earnest tones and grave;",
+        "Remember I’m the sinner",
+        "Whom Jesus came to save.",
+        "Tell me the story always,",
+        "If you would really be,",
+        "In any time of trouble,",
+        "A comforter to me."
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "title": "He Leadeth Me",
+    "author": "Joseph Gilmore",
+    "year": 1862,
+    "category": "Guidance",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "He leadeth me: O blessed thought!",
+        "O words with heavenly comfort fraught!",
+        "Whate’er I do, where’er I be,",
+        "Still ’tis God’s hand that leadeth me."
+      ],
+      "refrain": [
+        "He leadeth me, He leadeth me,",
+        "By His own hand He leadeth me;",
+        "His faithful follower I would be,",
+        "For by His hand He leadeth me."
+      ],
+      "verse2": [
+        "Sometimes mid scenes of deepest gloom,",
+        "Sometimes where Eden’s bowers bloom,",
+        "By waters still, o’er troubled sea,",
+        "Still ’tis His hand that leadeth me."
+      ],
+      "verse3": [
+        "Lord, I would clasp Thy hand in mine,",
+        "Nor ever murmur nor repine;",
+        "Content, whatever lot I see,",
+        "Since ’tis my God that leadeth me."
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "title": "The First Noel",
+    "author": "Traditional English Carol",
+    "year": 1823,
+    "category": "Christmas",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "The first Noel the angel did say",
+        "Was to certain poor shepherds in fields as they lay;",
+        "In fields where they lay, keeping their sheep,",
+        "On a cold winter's night that was so deep."
+      ],
+      "refrain": ["Noel, Noel, Noel, Noel,", "Born is the King of Israel."],
+      "verse2": [
+        "They looked up and saw a star",
+        "Shining in the east beyond them far,",
+        "And to the earth it gave great light,",
+        "And so it continued both day and night."
+      ],
+      "verse3": [
+        "And by the light of that same star",
+        "Three wise men came from country far;",
+        "To seek for a king was their intent,",
+        "And to follow the star wherever it went."
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "title": "I Surrender All",
+    "author": "Judson W. Van DeVenter",
+    "year": 1896,
+    "category": "Consecration",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "All to Jesus I surrender,",
+        "All to Him I freely give;",
+        "I will ever love and trust Him,",
+        "In His presence daily live."
+      ],
+      "refrain": [
+        "I surrender all, I surrender all,",
+        "All to Thee, my blessed Savior,",
+        "I surrender all."
+      ],
+      "verse2": [
+        "All to Jesus I surrender,",
+        "Humbly at His feet I bow,",
+        "Worldly pleasures all forsaken,",
+        "Take me, Jesus, take me now."
+      ],
+      "verse3": [
+        "All to Jesus I surrender,",
+        "Make me, Savior, wholly Thine;",
+        "Let me feel the Holy Spirit,",
+        "Truly know that Thou art mine."
+      ],
+      "verse4": [
+        "All to Jesus I surrender,",
+        "Lord, I give myself to Thee;",
+        "Fill me with Thy love and power,",
+        "Let Thy blessing fall on me."
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "title": "Love Divine, All Loves Excelling",
+    "author": "Charles Wesley",
+    "year": 1747,
+    "category": "Adoration",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Love divine, all loves excelling,",
+        "Joy of heaven to earth come down,",
+        "Fix in us Thy humble dwelling,",
+        "All Thy faithful mercies crown!",
+        "Jesus, Thou art all compassion,",
+        "Pure, unbounded love Thou art;",
+        "Visit us with Thy salvation,",
+        "Enter every trembling heart."
+      ],
+      "verse2": [
+        "Breathe, O breathe Thy loving Spirit",
+        "Into every troubled breast!",
+        "Let us all in Thee inherit,",
+        "Let us find Thy promised rest.",
+        "Take away the love of sinning;",
+        "Alpha and Omega be;",
+        "End of faith, as its beginning,",
+        "Set our hearts at liberty."
+      ],
+      "verse3": [
+        "Finish, then, Thy new creation;",
+        "Pure and spotless let us be.",
+        "Let us see Thy great salvation",
+        "Perfectly restored in Thee;",
+        "Changed from glory into glory,",
+        "Till in heaven we take our place,",
+        "Till we cast our crowns before Thee,",
+        "Lost in wonder, love, and praise."
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "title": "I Need Thee Every Hour",
+    "author": "Annie S. Hawks",
+    "year": 1872,
+    "category": "Supplication",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "I need Thee every hour,",
+        "Most gracious Lord;",
+        "No tender voice like Thine",
+        "Can peace afford."
+      ],
+      "refrain": [
+        "I need Thee, O I need Thee;",
+        "Every hour I need Thee!",
+        "O bless me now, my Savior,",
+        "I come to Thee."
+      ],
+      "verse2": [
+        "I need Thee every hour,",
+        "Stay Thou nearby;",
+        "Temptations lose their power",
+        "When Thou art nigh."
+      ],
+      "verse3": [
+        "I need Thee every hour,",
+        "In joy or pain;",
+        "Come quickly and abide,",
+        "Or life is vain."
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "title": "To God Be the Glory",
+    "author": "Fanny Crosby",
+    "year": 1875,
+    "category": "Praise",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "To God be the glory, great things He hath done;",
+        "So loved He the world that He gave us His Son,",
+        "Who yielded His life an atonement for sin,",
+        "And opened the life gate that all may go in."
+      ],
+      "refrain": [
+        "Praise the Lord, praise the Lord,",
+        "Let the earth hear His voice!",
+        "Praise the Lord, praise the Lord,",
+        "Let the people rejoice!",
+        "O come to the Father, through Jesus the Son,",
+        "And give Him the glory, great things He hath done."
+      ],
+      "verse2": [
+        "O perfect redemption, the purchase of blood,",
+        "To every believer the promise of God;",
+        "The vilest offender who truly believes,",
+        "That moment from Jesus a pardon receives."
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "title": "Softly and Tenderly Jesus Is Calling",
+    "author": "Will L. Thompson",
+    "year": 1880,
+    "category": "Invitation",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Softly and tenderly Jesus is calling,",
+        "Calling for you and for me;",
+        "See, on the portals He’s waiting and watching,",
+        "Watching for you and for me."
+      ],
+      "refrain": [
+        "Come home, come home,",
+        "You who are weary, come home;",
+        "Earnestly, tenderly, Jesus is calling,",
+        "Calling, O sinner, come home!"
+      ],
+      "verse2": [
+        "Why should we tarry when Jesus is pleading,",
+        "Pleading for you and for me?",
+        "Why should we linger and heed not His mercies,",
+        "Mercies for you and for me?"
+      ],
+      "verse3": [
+        "Time is now fleeting, the moments are passing,",
+        "Passing from you and from me;",
+        "Shadows are gathering, deathbeds are coming,",
+        "Coming for you and for me."
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "title": "Alas! and Did My Savior Bleed",
+    "author": "Isaac Watts",
+    "year": 1707,
+    "category": "The Cross",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Alas! and did my Savior bleed,",
+        "And did my Sovereign die?",
+        "Would He devote that sacred head",
+        "For such a worm as I?"
+      ],
+      "verse2": [
+        "Was it for crimes that I had done",
+        "He groaned upon the tree?",
+        "Amazing pity! grace unknown!",
+        "And love beyond degree!"
+      ],
+      "verse3": [
+        "Well might the sun in darkness hide,",
+        "And shut his glories in,",
+        "When Christ, the mighty Maker, died,",
+        "For man the creature’s sin."
+      ],
+      "verse4": [
+        "Thus might I hide my blushing face",
+        "While His dear cross appears,",
+        "Dissolve my heart in thankfulness,",
+        "And melt mine eyes to tears."
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "title": "This Is My Father's World",
+    "author": "Maltbie D. Babcock",
+    "year": 1901,
+    "category": "Creation",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "This is my Father's world, and to my listening ears",
+        "all nature sings, and round me rings the music of the spheres.",
+        "This is my Father's world: I rest me in the thought",
+        "of rocks and trees, of skies and seas; His hand the wonders wrought."
+      ],
+      "verse2": [
+        "This is my Father's world, the birds their carols raise,",
+        "the morning light, the lily white, declare their Maker's praise.",
+        "This is my Father's world: He shines in all that's fair;",
+        "in the rustling grass I hear Him pass; He speaks to me everywhere."
+      ],
+      "verse3": [
+        "This is my Father's world. O let me ne'er forget",
+        "that though the wrong seems oft so strong, God is the ruler yet.",
+        "This is my Father's world: why should my heart be sad?",
+        "The Lord is King; let the heavens ring! God reigns; let the earth be glad!"
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "title": "O Worship the King",
+    "author": "Robert Grant",
+    "year": 1833,
+    "category": "Adoration",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "O worship the King, all glorious above,",
+        "O gratefully sing His power and His love;",
+        "Our Shield and Defender, the Ancient of Days,",
+        "Pavilioned in splendor, and girded with praise."
+      ],
+      "verse2": [
+        "O tell of His might, O sing of His grace,",
+        "Whose robe is the light, whose canopy space,",
+        "His chariots of wrath the deep thunderclouds form,",
+        "And dark is His path on the wings of the storm."
+      ],
+      "verse3": [
+        "Thy bountiful care, what tongue can deliver?",
+        "It shines in the light, it streams in the river;",
+        "It breathes in the air, it floods in the hill,",
+        "It softly distills in the dew and the rill."
+      ],
+      "verse4": [
+        "Frail children of dust, and feeble as frail,",
+        "In Thee do we trust, nor find Thee to fail;",
+        "Thy mercies how tender, how firm to the end,",
+        "Our Maker, Defender, Redeemer, and Friend!"
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "title": "He Lives",
+    "author": "Alfred H. Ackley",
+    "year": 1933,
+    "category": "Resurrection",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "I serve a risen Savior, He's in the world today;",
+        "I know that He is living, whatever men may say.",
+        "I see His hand of mercy, I hear His voice of cheer,",
+        "And just the time I need Him He's always near."
+      ],
+      "refrain": [
+        "He lives, He lives, Christ Jesus lives today!",
+        "He walks with me and talks with me along life's narrow way.",
+        "He lives, He lives, salvation to impart!",
+        "You ask me how I know He lives? He lives within my heart."
+      ],
+      "verse2": [
+        "In all the world around me I see His loving care,",
+        "And though my heart grows weary, I never will despair.",
+        "I know that He is leading through all the stormy blast;",
+        "The day of His appearing will come at last."
+      ],
+      "verse3": [
+        "Rejoice, rejoice, O Christian, lift up your voice and sing",
+        "Eternal hallelujahs to Jesus Christ the King!",
+        "The Hope of all who seek Him, the Help of all who find,",
+        "None other is so loving, so good and kind."
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "title": "Turn Your Eyes Upon Jesus",
+    "author": "Helen H. Lemmel",
+    "year": 1922,
+    "category": "Assurance",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "O soul, are you weary and troubled?",
+        "No light in the darkness you see?",
+        "There’s light for a look at the Savior,",
+        "And life more abundant and free!"
+      ],
+      "refrain": [
+        "Turn your eyes upon Jesus,",
+        "Look full in His wonderful face,",
+        "And the things of earth will grow strangely dim,",
+        "In the light of His glory and grace."
+      ],
+      "verse2": [
+        "Through death into life everlasting",
+        "He passed, and we follow Him there;",
+        "Over us sin no more hath dominion—",
+        "For more than conquerors we are!"
+      ],
+      "verse3": [
+        "His Word shall not fail you—He promised;",
+        "Believe Him, and all will be well:",
+        "Then go to a world that is dying,",
+        "His perfect salvation to tell!"
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "title": "Revive Us Again",
+    "author": "William P. Mackay",
+    "year": 1863,
+    "category": "Praise",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "We praise Thee, O God! For the Son of Thy love,",
+        "For Jesus Who died, and is now gone above."
+      ],
+      "refrain": [
+        "Hallelujah! Thine the glory. Hallelujah! Amen.",
+        "Hallelujah! Thine the glory. Revive us again."
+      ],
+      "verse2": [
+        "We praise Thee, O God! For Thy Spirit of light,",
+        "Who hath shown us our Savior, and scattered our night."
+      ],
+      "verse3": [
+        "All glory and praise to the Lamb that was slain,",
+        "Who hath borne all our sins, and hath cleansed every stain."
+      ],
+      "verse4": [
+        "Revive us again; fill each heart with Thy love;",
+        "May each soul be rekindled with fire from above."
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "title": "All Hail the Power of Jesus' Name",
+    "author": "Edward Perronet",
+    "year": 1779,
+    "category": "Adoration",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "All hail the power of Jesus' name! Let angels prostrate fall;",
+        "bring forth the royal diadem, and crown Him Lord of all.",
+        "Bring forth the royal diadem, and crown Him Lord of all!"
+      ],
+      "verse2": [
+        "Ye chosen seed of Israel's race, ye ransomed from the fall,",
+        "hail Him who saves you by His grace, and crown Him Lord of all.",
+        "Hail Him who saves you by His grace, and crown Him Lord of all!"
+      ],
+      "verse3": [
+        "Let every kindred, every tribe on this terrestrial ball,",
+        "to Him all majesty ascribe, and crown Him Lord of all.",
+        "To Him all majesty ascribe, and crown Him Lord of all!"
+      ],
+      "verse4": [
+        "O that with yonder sacred throng we at His feet may fall!",
+        "We'll join the everlasting song, and crown Him Lord of all.",
+        "We'll join the everlasting song, and crown Him Lord of all!"
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "title": "I Love to Tell the Story",
+    "author": "Katherine Hankey",
+    "year": 1866,
+    "category": "Gospel",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "I love to tell the story of unseen things above,",
+        "Of Jesus and His glory, of Jesus and His love.",
+        "I love to tell the story, because I know 'tis true;",
+        "It satisfies my longings as nothing else can do."
+      ],
+      "refrain": [
+        "I love to tell the story, 'twill be my theme in glory,",
+        "To tell the old, old story of Jesus and His love."
+      ],
+      "verse2": [
+        "I love to tell the story; 'tis pleasant to repeat",
+        "What seems, each time I tell it, more wonderfully sweet.",
+        "I love to tell the story, for some have never heard",
+        "The message of salvation from God's own holy Word."
+      ],
+      "verse3": [
+        "I love to tell the story; for those who know it best",
+        "Seem hungering and thirsting to hear it like the rest.",
+        "And when, in scenes of glory, I sing the new, new song,",
+        "'Twill be the old, old story that I have loved so long."
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "title": "Nothing but the Blood",
+    "author": "Robert Lowry",
+    "year": 1876,
+    "category": "Redemption",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "What can wash away my sin? Nothing but the blood of Jesus;",
+        "What can make me whole again? Nothing but the blood of Jesus."
+      ],
+      "refrain": [
+        "Oh! precious is the flow that makes me white as snow;",
+        "No other fount I know, nothing but the blood of Jesus."
+      ],
+      "verse2": [
+        "For my pardon, this I see, nothing but the blood of Jesus;",
+        "For my cleansing this my plea, nothing but the blood of Jesus."
+      ],
+      "verse3": [
+        "Nothing can for sin atone, nothing but the blood of Jesus;",
+        "Naught of good that I have done, nothing but the blood of Jesus."
+      ],
+      "verse4": [
+        "This is all my hope and peace, nothing but the blood of Jesus;",
+        "This is all my righteousness, nothing but the blood of Jesus."
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "title": "Pass Me Not, O Gentle Savior",
+    "author": "Fanny Crosby",
+    "year": 1868,
+    "category": "Supplication",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "Pass me not, O gentle Savior, hear my humble cry;",
+        "While on others Thou art calling, do not pass me by."
+      ],
+      "refrain": [
+        "Savior, Savior, hear my humble cry;",
+        "While on others Thou art calling, do not pass me by."
+      ],
+      "verse2": [
+        "Let me at Thy throne of mercy find a sweet relief,",
+        "Kneeling there in deep contrition; help my unbelief."
+      ],
+      "verse3": [
+        "Trusting only in Thy merit, would I seek Thy face;",
+        "Heal my wounded, broken spirit, save me by Thy grace."
+      ],
+      "verse4": [
+        "Thou the Spring of all my comfort, more than life to me,",
+        "Whom have I on earth beside Thee? Whom in heav'n but Thee?"
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "title": "In the Garden",
+    "author": "C. Austin Miles",
+    "year": 1912,
+    "category": "Devotion",
+    "midi": "",
+    "lyrics": {
+      "verse1": [
+        "I come to the garden alone while the dew is still on the roses,",
+        "And the voice I hear falling on my ear, the Son of God discloses."
+      ],
+      "refrain": [
+        "And He walks with me, and He talks with me, and He tells me I am His own;",
+        "And the joy we share as we tarry there, none other has ever known."
+      ],
+      "verse2": [
+        "He speaks, and the sound of His voice is so sweet the birds hush their singing,",
+        "And the melody that He gave to me within my heart is ringing."
+      ],
+      "verse3": [
+        "I'd stay in the garden with Him though the night around me be falling,",
+        "But He bids me go; through the voice of woe His voice to me is calling."
+      ]
+    }
+  }
+]
