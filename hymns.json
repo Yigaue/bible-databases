@@ -1164,42 +1164,52 @@
     }
   },
   {
-    "id": 31,
-    "title": "O Come, O Come, Emmanuel",
-    "author": "Latin Hymn / John Mason Neale",
-    "year": 1851,
-    "category": "Advent",
-    "midi": "",
-    "lyrics": {
-      "verse1": [
-        "O come, O come, Emmanuel,",
-        "And ransom captive Israel,",
-        "That mourns in lonely exile here,",
-        "Until the Son of God appear."
-      ],
-      "refrain": [
-        "Rejoice! Rejoice! Emmanuel",
-        "Shall come to thee, O Israel."
-      ],
-      "verse2": [
-        "O come, Thou Rod of Jesse, free",
-        "Thine own from Satan’s tyranny;",
-        "From depths of Hell Thy people save,",
-        "And give them victory o’er the grave."
-      ],
-      "verse3": [
-        "O come, Thou Day-Spring, come and cheer",
-        "Our spirits by Thine advent here;",
-        "Disperse the gloomy clouds of night,",
-        "And death’s dark shadows put to flight."
-      ],
-      "verse4": [
-        "O come, Thou Key of David, come,",
-        "And open wide our heavenly home;",
-        "Make safe the way that leads on high,",
-        "And close the path to misery."
-      ]
-    }
+   "id": 31,
+   "title": "O Happy Day, That Fixed My Choice",
+   "author": "Philip Doddridge",
+   "year": 1755,
+   "category": "Salvation and Joy",
+   "midi": "",
+   "lyrics": {
+    "verse1": [
+      "O happy day, that fixed my choice",
+      "On Thee, my Savior and my God!",
+      "Well may this glowing heart rejoice,",
+      "And tell its raptures all abroad."
+    ],
+    "chorus": [
+      "Happy day, happy day,",
+      "When Jesus washed my sins away!",
+      "He taught me how to watch and pray,",
+      "And live rejoicing every day;",
+      "Happy day, happy day,",
+      "When Jesus washed my sins away!"
+    ],
+    "verse2": [
+      "O happy bond, that seals my vows",
+      "To Him who merits all my love!",
+      "Let cheerful anthems fill His house,",
+      "While to that sacred shrine I move."
+    ],
+    "verse3": [
+      "’Tis done: the great transaction’s done;",
+      "I am my Lord’s, and He is mine;",
+      "He drew me, and I followed on,",
+      "Charmed to confess the voice divine."
+     ],
+     "verse4": [
+      "Now rest, my long-divided heart,",
+      "Fixed on this blissful center, rest;",
+      "Nor ever from thy Lord depart,",
+      "With Him of every good possessed."
+     ],
+     "verse5": [
+      "High heaven, that heard the solemn vow,",
+      "That vow renewed shall daily hear,",
+      "Till in life’s latest hour I bow,",
+      "And bless in death a bond so dear."
+     ]
+   }
   },
   {
     "id": 32,
@@ -1424,34 +1434,54 @@
     }
   },
   {
-    "id": 38,
-    "title": "To God Be the Glory",
-    "author": "Fanny Crosby",
-    "year": 1875,
-    "category": "Praise",
-    "midi": "",
-    "lyrics": {
-      "verse1": [
-        "To God be the glory, great things He hath done;",
-        "So loved He the world that He gave us His Son,",
-        "Who yielded His life an atonement for sin,",
-        "And opened the life gate that all may go in."
-      ],
-      "refrain": [
-        "Praise the Lord, praise the Lord,",
-        "Let the earth hear His voice!",
-        "Praise the Lord, praise the Lord,",
-        "Let the people rejoice!",
-        "O come to the Father, through Jesus the Son,",
-        "And give Him the glory, great things He hath done."
-      ],
-      "verse2": [
-        "O perfect redemption, the purchase of blood,",
-        "To every believer the promise of God;",
-        "The vilest offender who truly believes,",
-        "That moment from Jesus a pardon receives."
-      ]
-    }
+ "id": 38,
+  "title": "Victory in Jesus",
+  "author": "Eugene M. Bartlett",
+  "year": 1939,
+  "category": "Victory and Praise",
+  "midi": "",
+  "lyrics": {
+    "verse1": [
+      "I heard an old, old story,",
+      "How a Savior came from glory,",
+      "How He gave His life on Calvary",
+      "To save a wretch like me;",
+      "I heard about His groaning,",
+      "Of His precious blood's atoning,",
+      "Then I repented of my sins",
+      "And won the victory."
+    ],
+    "chorus": [
+      "O victory in Jesus,",
+      "My Savior, forever!",
+      "He sought me and bought me",
+      "With His redeeming blood;",
+      "He loved me ere I knew Him,",
+      "And all my love is due Him,",
+      "He plunged me to victory,",
+      "Beneath the cleansing flood."
+    ],
+    "verse2": [
+      "I heard about His healing,",
+      "Of His cleansing pow'r revealing,",
+      "How He made the lame to walk again",
+      "And caused the blind to see;",
+      "And then I cried, 'Dear Jesus,",
+      "Come and heal my broken spirit,'",
+      "And I somehow plunged into the blood,",
+      "And gained the victory."
+    ],
+    "verse3": [
+      "I heard about a mansion",
+      "He has built for me in glory,",
+      "And I heard about the streets of gold",
+      "Beyond the crystal sea;",
+      "About the angels singing,",
+      "And the old redemption story,",
+      "And some sweet day I'll sing up there",
+      "The song of victory."
+    ]
+   }
   },
   {
     "id": 39,
@@ -1828,5 +1858,179 @@
         "But He bids me go; through the voice of woe His voice to me is calling."
       ]
     }
+  },
+  {
+  "id": 51,
+  "title": "Trust and Obey",
+  "author": "John H. Sammis",
+  "year": 1887,
+  "category": "Faith and Obedience",
+  "midi": "",
+  "lyrics": {
+    "verse1": [
+      "When we walk with the Lord",
+      "In the light of His Word,",
+      "What a glory He sheds on our way!",
+      "While we do His good will,",
+      "He abides with us still,",
+      "And with all who will trust and obey."
+    ],
+    "chorus": [
+      "Trust and obey, for there's no other way",
+      "To be happy in Jesus, but to trust and obey."
+    ],
+    "verse2": [
+      "Not a shadow can rise,",
+      "Not a cloud in the skies,",
+      "But His smile quickly drives it away;",
+      "Not a doubt or a fear,",
+      "Not a sigh or a tear,",
+      "Can abide while we trust and obey."
+    ],
+    "verse3": [
+      "Not a burden we bear,",
+      "Not a sorrow we share,",
+      "But our toil He doth richly repay;",
+      "Not a grief or a loss,",
+      "Not a frown or a cross,",
+      "But is blest if we trust and obey."
+    ],
+    "verse4": [
+      "But we never can prove",
+      "The delights of His love",
+      "Until all on the altar we lay;",
+      "For the favor He shows,",
+      "And the joy He bestows,",
+      "Are for them who will trust and obey."
+    ],
+    "verse5": [
+      "Then in fellowship sweet",
+      "We will sit at His feet,",
+      "Or we'll walk by His side in the way;",
+      "What He says we will do,",
+      "Where He sends we will go;",
+      "Never fear, only trust and obey."
+    ]
   }
+ },
+ {
+  "id": 52,
+  "title": "I Know Whom I Have Believed",
+  "author": "Daniel W. Whittle",
+  "year": 1883,
+  "category": "Faith and Assurance",
+  "midi": "",
+  "lyrics": {
+    "verse1": [
+      "I know not why God’s wondrous grace",
+      "To me He hath made known,",
+      "Nor why, unworthy, Christ in love",
+      "Redeemed me for His own."
+    ],
+    "chorus": [
+      "But “I know whom I have believed,",
+      "And am persuaded that He is able",
+      "To keep that which I’ve committed",
+      "Unto Him against that day.”"
+    ],
+    "verse2": [
+      "I know not how this saving faith",
+      "To me He did impart,",
+      "Nor how believing in His Word",
+      "Wrought peace within my heart."
+    ],
+    "verse3": [
+      "I know not how the Spirit moves,",
+      "Convincing men of sin,",
+      "Revealing Jesus through the Word,",
+      "Creating faith in him."
+    ],
+    "verse4": [
+      "I know not what of good or ill",
+      "May be reserved for me,",
+      "Of weary ways or golden days,",
+      "Before His face I see."
+    ],
+    "verse5": [
+      "I know not when my Lord shall come,",
+      "At night or noonday fair,",
+      "Nor if I’ll walk the vale with Him,",
+      "Or meet Him in the air."
+    ]
+  }
+ },
+ {
+  "id": 53,
+  "title": "In Times Like These",
+  "author": "Ruth Caye Jones",
+  "year": 1944,
+  "category": "Faith and Comfort",
+  "midi": "",
+  "lyrics": {
+    "verse1": [
+      "In times like these you need a Savior,",
+      "In times like these you need an anchor;",
+      "Be very sure, be very sure,",
+      "Your anchor holds and grips the Solid Rock!"
+    ],
+    "chorus": [
+      "This Rock is Jesus, Yes, He's the One,",
+      "This Rock is Jesus, the only One;",
+      "Be very sure, be very sure,",
+      "Your anchor holds and grips the Solid Rock!"
+    ],
+    "verse2": [
+      "In times like these you need the Bible,",
+      "In times like these O be not idle;",
+      "Be very sure, be very sure,",
+      "Your anchor holds and grips the Solid Rock!"
+    ],
+    "verse3": [
+      "In times like these I have a Savior,",
+      "In times like these I have an anchor;",
+      "I'm very sure, I'm very sure",
+      "My anchor holds and grips the Solid Rock!"
+    ]
+  }
+ },
+ {
+  "id": 54,
+  "title": "All Your Anxiety",
+  "author": "Edward H. Joy",
+  "year": 1920,
+  "category": "Peace and Comfort",
+  "midi": "",
+  "lyrics": {
+    "verse1": [
+      "Is there a heart o'erbound with sorrow?",
+      "Is there a heart weighed down with care?",
+      "Come to the cross, each burden sharing,",
+      "All your anxiety leave it there."
+    ],
+    "chorus": [
+      "All your anxiety, all your care,",
+      "Bring to the mercy seat, leave it there;",
+      "Never a burden He cannot bear,",
+      "Never a friend like Jesus."
+    ],
+    "verse2": [
+      "No other friend so swift to help you,",
+      "No other friend so quick to hear;",
+      "No other place to lay your burden,",
+      "No other place to lose your fear."
+    ],
+    "verse3": [
+      "Come then at once, delay no longer,",
+      "Heed His sweet voice inviting you;",
+      "Into His feet your burden casting,",
+      "Find His great promise ever true."
+    ],
+    "verse4": [
+      "Bear in your mind that He has suffered,",
+      "He has been tempted, tried and true;",
+      "He will not leave you to your sorrow,",
+      "He will be everything to you."
+    ]
+  }
+ }
 ]
